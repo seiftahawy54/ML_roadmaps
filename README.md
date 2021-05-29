@@ -2,7 +2,7 @@
 
 **This repo is about Machine Learning Self study map made by @Ali Osama, and it will be updated as possible as it be**
 
-**For Contact or update [Ertaqe SA](fb.com/ertaqe), [Seif Tahawy](fb.com/seiftahawy54)**
+**For Contact or update [Ertaqe SA](https://fb.com/ertaqe), [Seif Tahawy](https://fb.com/seiftahawy54)**
 
 * [AI Expert Roadmap](https://i.am.ai/roadmap)
 
